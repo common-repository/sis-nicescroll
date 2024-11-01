@@ -1,0 +1,83 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/sis-nicescroll\n"
+"POT-Creation-Date: 2014-09-19 17:22:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: index.php:43
+msgid "Nicescroll"
+msgstr ""
+
+#: plugin-options.php:2
+msgid "Nicescroll Settings"
+msgstr ""
+
+#: plugin-options.php:11
+msgid "Cursor Color"
+msgstr ""
+
+#: plugin-options.php:15 plugin-options.php:24
+msgid ""
+"Select cursor color. You can also write hexadecimal value of color. Defaults "
+"color is &lsquo; #000000 &lsquo;"
+msgstr ""
+
+#: plugin-options.php:20
+msgid "Cursor Border Color"
+msgstr ""
+
+#: plugin-options.php:29
+msgid "Cursor Width"
+msgstr ""
+
+#: plugin-options.php:33
+msgid "Write cursor Width at pixels. Defaults width is &lsquo; 5px &lsquo;"
+msgstr ""
+
+#: plugin-options.php:38
+msgid "Cursor Width on Hover"
+msgstr ""
+
+#: plugin-options.php:42
+msgid ""
+"Write cursor Width on Hover at pixels. Defaults width is &lsquo; 10px &lsquo;"
+msgstr ""
+
+#: plugin-options.php:47
+msgid "Cursor Border Width"
+msgstr ""
+
+#: plugin-options.php:51
+msgid ""
+"Write cursor border width at pixels. Defaults width is &lsquo; 0px &lsquo;"
+msgstr ""
+
+#: plugin-options.php:56
+msgid "Cursor Border Radius"
+msgstr ""
+
+#: plugin-options.php:60
+msgid ""
+"Write cursor border radius at pixels. Defaults border radius is &lsquo; 0px "
+"&lsquo;"
+msgstr ""
+
+#: plugin-options.php:65
+msgid "Cursor Scroll Speed"
+msgstr ""
+
+#: plugin-options.php:69
+msgid "Write cursor scroll speed. Defaults border radius is &lsquo; 60 &lsquo;"
+msgstr ""
+
+#: plugin-options.php:74
+msgid "Save Changes"
+msgstr ""
